@@ -8,7 +8,7 @@ var body = document.getElementById("gradient");
 var r1 = document.getElementById("r1");
 var r2 = document.getElementById("r2");
 var colors = ["#ff0000", "#00ff00", "#0000ff"];
-var btn = document.querySelector("button");
+var btn = document.getElementById("btn");
 
 //random hex generator
 function random_color() {

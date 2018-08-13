@@ -6,23 +6,6 @@ body {
   background: linear-gradient(to right, rgb(73, 220, 142), rgb(178, 123, 247));
 }
 
-h1 {
-  font: 600 3.5em "Raleway", sans-serif;
-  color: rgba(0, 0, 0, 0.5);
-  text-align: center;
-  text-transform: uppercase;
-  letter-spacing: 0.2em;
-}
-
-h3,
-h4 {
-  font: 900 1em "Raleway", sans-serif;
-  color: rgba(0, 0, 0, 0.5);
-  text-align: center;
-  text-transform: none;
-  letter-spacing: 0.01em;
-}
-
 #color1,
 #color2 {
   width: 30%;
@@ -42,4 +25,11 @@ h4 {
 
 .table {
   border: 1px solid white;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
 }
