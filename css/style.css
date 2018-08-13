@@ -19,3 +19,24 @@
   background-color: rgb(210, 231, 168);
   font-family: "Jua", sans-serif;
 }
+
+#vid1 {
+  background: transparent url("img/background-gen.png") no-repeat 0 0;
+  background-size: cover;
+}
+
+#vid2 {
+  background: transparent url("img/shopping-list.png") no-repeat 0 0;
+  background-size: cover;
+}
+
+#gif {
+  max-width: 100%;
+  height: auto;
+  width: auto;
+  margin-left: 40px;
+}
+
+/* #modal {
+  padding-bottom: 50px;
+} */
