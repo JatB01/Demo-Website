@@ -22,11 +22,18 @@
 
 #vid1 {
   background: transparent url("img/background-gen.png") no-repeat 0 0;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
 }
 
 #vid2 {
   background: transparent url("img/shopping-list.png") no-repeat 0 0;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   background-size: cover;
 }
 
@@ -34,9 +41,4 @@
   max-width: 100%;
   height: auto;
   width: auto;
-  margin-left: 40px;
 }
-
-/* #modal {
-  padding-bottom: 50px;
-} */
