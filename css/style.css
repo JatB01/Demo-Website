@@ -7,3 +7,16 @@
 .jumbotron {
   margin-bottom: 0;
 }
+
+#shoplist {
+  background-color: #e9ecef;
+}
+
+#bgen {
+  background-color: #d6dcf7;
+}
+
+#currentproj {
+  background-color: rgb(210, 231, 168);
+  font-family: "Jua", sans-serif;
+}

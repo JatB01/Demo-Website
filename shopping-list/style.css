@@ -1,0 +1,22 @@
+body {
+  background: #9fd8ef;
+}
+
+.container {
+  justify-content: center;
+}
+
+.far {
+  opacity: 0.5;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.far:hover {
+  opacity: 1;
+}
+
+p {
+  font-family: "Pacifico", cursive;
+}
