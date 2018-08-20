@@ -7,10 +7,12 @@
   margin-bottom: 0;
 }
 
-#shoplist {
+#shoplist,
+#soon {
   background-color: #e9ecef;
 }
 
+#news,
 #bgen {
   background-color: #d6dcf7;
 }
@@ -30,6 +32,14 @@
 
 #vid2 {
   background: transparent url("img/shopping-list.png") no-repeat 0 0;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-size: cover;
+}
+
+#img1 {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
