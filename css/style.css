@@ -1,5 +1,6 @@
 #icon {
-  padding-left: 25px;
+  padding-left: 12px;
+  padding-right: 12px;
   height: 2.5em;
 }
 
@@ -51,4 +52,7 @@
   max-width: 100%;
   height: auto;
   width: auto;
+}
+
+.icons {
 }
