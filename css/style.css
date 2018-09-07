@@ -8,13 +8,14 @@
   margin-bottom: 0;
 }
 
-#shoplist,
-#soon {
+#news,
+#bgen {
   background-color: #e9ecef;
 }
 
-#news,
-#bgen {
+#imagerec,
+#soon,
+#shoplist {
   background-color: #d6dcf7;
 }
 
@@ -54,5 +55,16 @@
   width: auto;
 }
 
-.icons {
+.static {
+  position: absolute;
+  background: white;
+}
+
+.static:hover {
+  opacity: 0;
+}
+
+#flat {
+  width: max-content;
+  height: 300px;
 }
