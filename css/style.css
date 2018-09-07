@@ -1,6 +1,8 @@
 #icon {
   padding-left: 12px;
   padding-right: 12px;
+  margin-top: 6px;
+  margin-bottom: 6px;
   height: 2.5em;
 }
 
@@ -62,9 +64,4 @@
 
 .static:hover {
   opacity: 0;
-}
-
-#flat {
-  width: max-content;
-  height: 300px;
 }
